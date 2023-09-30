@@ -23,21 +23,22 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Software Engineer
+    - title: Machine Learning Engineer
       institution: Google
       year: 2023 - Now
       description:
-        - Neural semantic parsing and question answering in Google Search
+        - Researching, designing, implementing and deploying the query understanding model for Google Search
+        - Working on natural language understanding (neural semantic parsing, question answering, and information retrieval) at a massive scale
     - title: Software Engineering Intern
       institution: Google
       year: 2022
       description:
-        - Neural semantic parsing and question answering in Google Search
+        - Improved neural semantic parsing models for Google Search
     - title: Software Engineering Intern
       institution: Google
       year: 2021
       description:
-        - Voice queries for electric vehicles in Google Assistant
+        - Developed voice queries for electric vehicles in Google Assistant
 
     - title: Product Management Intern
       institution: Landed (Y Combinator W19)
