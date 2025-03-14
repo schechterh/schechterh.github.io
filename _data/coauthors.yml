@@ -61,6 +61,10 @@
   - firstname: ["Erwin"]
     url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 
+"Team":
+  - firstname: ["Gemini Embedding"]
+    url: https://deepmind.google/research/publications/157741/
+
 "Lorentz":
   - firstname: ["Hendrik Antoon"]
     url: https://en.wikipedia.org/wiki/Hendrik_Lorentz

@@ -23,12 +23,16 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Machine Learning Engineer III
+      institution: Google
+      year: 2024 - Now
+      description:
     - title: Machine Learning Engineer
       institution: Google
-      year: 2023 - Now
+      year: 2023 - 2024
       description:
-        - Researching, designing, implementing and deploying the query understanding model for Google Search
-        - Working on natural language understanding (neural semantic parsing, question answering, and information retrieval) at a massive scale
+        - Research, design, implementation and deployment of the query understanding model for Google Search
+        - Working on natural language understanding (representation learning, information retrieval, question answering, and neural semantic parsing) at a massive scale
     - title: Software Engineering Intern
       institution: Google
       year: 2022

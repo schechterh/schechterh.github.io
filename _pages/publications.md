@@ -2,8 +2,8 @@
 layout: page
 permalink: /papers/
 title: papers
-description: completed research projects from undergrad
-years: [2023, 2022, 2021]
+description: completed research projects
+years: [2025, 2023, 2022, 2021]
 nav: true
 nav_order: 2
 ---
