@@ -2,7 +2,7 @@
 layout: page
 permalink: /papers/
 title: papers
-description: completed research projects
+description: completed research projects; authors listed in alphabetical order
 years: [2025, 2023, 2022, 2021]
 nav: true
 nav_order: 2
