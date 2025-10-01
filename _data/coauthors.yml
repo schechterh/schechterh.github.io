@@ -62,12 +62,11 @@
     url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 
 "Team":
+  - firstname: ["Gemini Embedding"]
+    url: https://deepmind.google/research/publications/157741/
   - firstname: ["EmbeddingGemma"]
     url: https://deepmind.google/research/publications/194199/
 
-"Team":
-  - firstname: ["Gemini Embedding"]
-    url: https://deepmind.google/research/publications/157741/
 
 "Lorentz":
   - firstname: ["Hendrik Antoon"]
