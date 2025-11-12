@@ -23,16 +23,24 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Senior Research Engineer
+      institution: Google DeepMind
+      year: 2025 - NOW
+      description: Conducting foundational research in multimodal representation learning, computer vision, and language understanding
+    - title: Senior Machine Learning Engineer
+      institution: Google
+      year: 2025
+      description:
     - title: Machine Learning Engineer III
       institution: Google
-      year: 2024 - Now
+      year: 2024 - 2025
       description:
     - title: Machine Learning Engineer II
       institution: Google
       year: 2023 - 2024
       description:
         - Research, design, implementation and deployment of the query understanding model for Google Search
-        - Working on natural language understanding (representation learning, information retrieval, question answering, and neural semantic parsing) at a massive scale
+        - Worked on natural language understanding (representation learning, information retrieval, question answering, and neural semantic parsing) at a massive scale
     - title: Software Engineering Intern
       institution: Google
       year: 2022
