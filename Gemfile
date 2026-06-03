@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
-    gem 'wdm', '>= 0.1.0'
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
@@ -24,3 +23,5 @@ group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
 end
+
+gem 'wdm', '>= 0.1.0', platforms: [:mswin, :mingw, :x64_mingw]
