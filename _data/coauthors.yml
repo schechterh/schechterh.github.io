@@ -63,11 +63,13 @@
 
 "Team":
   - firstname: ["Gemini Embedding"]
-    url: https://deepmind.google/research/publications/157741/
-    url: https://arxiv.org/abs/2605.27295
+    paper_urls:
+      gemini_embedding: https://deepmind.google/research/publications/157741/
+      gemini_embedding_2: https://arxiv.org/abs/2605.27295
   - firstname: ["EmbeddingGemma"]
-    url: https://deepmind.google/research/publications/194199/
-    url: https://deepmind.google/research/publications/279443/
+    paper_urls:
+      embedding_gemma: https://deepmind.google/research/publications/194199/
+      embedding_gemma_2: https://deepmind.google/research/publications/279443/
 
 "Lorentz":
   - firstname: ["Hendrik Antoon"]
